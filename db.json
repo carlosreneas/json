@@ -31,7 +31,7 @@
   ],
   "auths": [
     {
-      "id": "crangarita",
+      "id": 1,
       "status": true
     }  
   ],
