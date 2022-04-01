@@ -29,6 +29,12 @@
       "email": "carlosreneas@ufps.edu.co"
     }
   ],
+  "auth":[
+    {
+      "id": "crangarita",
+      "status": true
+    }  
+  ]
   "profile": {
     "name": "typicode"
   }
