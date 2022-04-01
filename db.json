@@ -2,7 +2,13 @@
   "auths": [
     {
       "id": 1,
+      "username": "crangarita",
       "status": true
+    } ,
+    {
+      "id": 2,
+      "username": "usuario",
+      "status": false
     }  
   ],
   "posts": [
