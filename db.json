@@ -1,4 +1,10 @@
 {
+  "auths": [
+    {
+      "id": 1,
+      "status": true
+    }  
+  ],
   "posts": [
     {
       "id": 2,
@@ -28,12 +34,6 @@
       "program": "Ingenieria de Sistemas",
       "email": "carlosreneas@ufps.edu.co"
     }
-  ],
-  "auths": [
-    {
-      "id": 1,
-      "status": true
-    }  
   ],
   "profile": {
     "name": "typicode"
