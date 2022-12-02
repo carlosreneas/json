@@ -1,0 +1,1 @@
+[{"id":1,"nombre":"Pony Malta","descripcion":"Bebida de campeones","categoria":{"id":1,"descripcion":"Bebidas"}},{"id":3,"nombre":"Gomitas","descripcion":"Gomas dulces divertidas pero malvadas","categoria":{"id":2,"descripcion":"Dulces"}},{"id":19,"nombre":"Melon","descripcion":"Fruta Dulce","categoria":{"id":3,"descripcion":"Frutas"}}]
